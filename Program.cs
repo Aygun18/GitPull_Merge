@@ -114,7 +114,7 @@ namespace GitPull_Merge
 					sum1 += arr4[i];
                     
                 }
-				if (arr4[i] % 2 != 0)
+				else
 				{
 					
 					sum2 += arr4[i];
