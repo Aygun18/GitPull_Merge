@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\bin\Debug\net6.0\GitPull_Merge.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\bin\Debug\net6.0\GitPull_Merge.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\bin\Debug\net6.0\GitPull_Merge.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\bin\Debug\net6.0\GitPull_Merge.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\bin\Debug\net6.0\GitPull_Merge.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\obj\Debug\net6.0\GitPull_Merge.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\obj\Debug\net6.0\GitPull_Merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\obj\Debug\net6.0\GitPull_Merge.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\obj\Debug\net6.0\GitPull_Merge.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\obj\Debug\net6.0\GitPull_Merge.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\obj\Debug\net6.0\GitPull_Merge.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\obj\Debug\net6.0\refint\GitPull_Merge.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\obj\Debug\net6.0\GitPull_Merge.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\obj\Debug\net6.0\GitPull_Merge.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\GitPull_Merge\obj\Debug\net6.0\ref\GitPull_Merge.dll
